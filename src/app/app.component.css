@@ -1,0 +1,12 @@
+.typewriter{
+    font-family: monospace;
+    color: red;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+img {
+    width: 50vw;
+    height: auto;
+    border: 10px solid black;
+}
